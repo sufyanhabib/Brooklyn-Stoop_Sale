@@ -1,0 +1,19 @@
+.seccard .card {
+    width: 95%;
+    margin: 20px auto;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.card div {
+    display: inline-block;
+    width: 350px;
+}
+
+.card div img {
+    display: block;
+    height: 250px;
+    width: 100%;
+}
