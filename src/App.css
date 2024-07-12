@@ -188,6 +188,7 @@
     -webkit-line-clamp: 3;
     -webkit-box-orient: vertical;
     overflow: hidden;
+    line-clamp: 3;
   }
   
   /*first-letter*/
@@ -323,7 +324,7 @@
     z-index: 999;
     position: relative;
     overflow: hidden;
-    font: normal normal 600 90px/0% 'Darker Grotesque', sans-serif;
+    font: normal normal 600 60px/0% 'Darker Grotesque', sans-serif;
     /*! font: font-style font-variant font-weight font-size/line-height font-family*/
     -webkit-text-fill-color: #fff;
     -webkit-text-stroke: 2px #000;
