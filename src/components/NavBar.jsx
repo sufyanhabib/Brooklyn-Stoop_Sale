@@ -15,7 +15,7 @@ function NavBar() {
     </nav>
     <img src={plant} alt="plant" className="plant" />
     <section className="divider">
-     <h2><span style="color: pink;">Chelsea</span> & <span style="color: black;">Lil's</span> Brooklyn Stoop Sale Invitation ✉<br />Join us for a fun-filled day of treasures and treats on the stoop!</h2>
+    <h2><span style={{color: "pink"}}>Chelsea</span> & <span style={{color: "black"}}>Lil&apos;s</span> Brooklyn Stoop Sale Invitation ✉<br />Join us for a fun-filled day of treasures and treats on the stoop!</h2>
     </section>
     <img src={plant} alt="plant" className="plant-background" />
     <img src={plant} alt="plant" className="plant-background bottom" />
