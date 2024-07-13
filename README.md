@@ -144,7 +144,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 - **Name**: Abubakar Habib
-- **Email**: sufyan@example.com
+- **Email**: sufyanhabib80@gmail.com
 - **GitHub**: [sufyanhabib](https://github.com/sufyanhabib)
 - **Twitter**: [@sufyanhabib1](https://twitter.com/sufyanhabib1)
 ---
