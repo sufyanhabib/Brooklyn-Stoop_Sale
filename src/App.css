@@ -145,7 +145,37 @@
   
   
 
+/* play Button */
+/* Add animation keyframes */
+@keyframes shake {
+  0% { transform: translateX(0); }
+  25% { transform: translateX(-5px); }
+  50% { transform: translateX(5px); }
+  75% { transform: translateX(-5px); }
+  100% { transform: translateX(0); }
+}
 
+/* Button styles */
+.play-button {
+  background-color: #0c6438e0; /* Pink color */
+  color: #fff;
+  width: 3%;
+  height: 6vh;
+  padding-left: 10px;
+  padding-right: 10px;
+  border: none;
+  cursor: pointer;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  border-radius: 50%;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  animation: shake 2s infinite; /* Apply shake animation */
+}
+ 
+
+.play-button:hover {
+  background-color: #eef5f0; /* Darker pink on hover */
+}
 
 
   
