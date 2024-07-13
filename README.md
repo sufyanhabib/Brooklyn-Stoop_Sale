@@ -2,6 +2,11 @@
 
 Welcome to the Brooklyn Stoop Sale Invitation project! This project was developed as part of the Codedex Summer July 11 Hackathon. The goal is to create an interactive and engaging web application that serves as an invitation to a Brooklyn stoop sale event.
 
+
+## Live Preview
+Check out the live preview of the Brooklyn Stoop Sale Invitation: Brooklyn Stoop Sale Invitation
+
+
 ## Table of Contents
 
 - [Overview](#overview)
