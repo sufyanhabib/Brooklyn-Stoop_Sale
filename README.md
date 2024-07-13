@@ -1,66 +1,80 @@
-Brooklyn Stoop Sale Invitation
+ # [Brooklyn Stoop Sale Invitation](https://brooklyn-stoop-sale-khaki.vercel.app/)
 
 Welcome to the Brooklyn Stoop Sale Invitation project! This project was developed as part of the Codedex Summer July 11 Hackathon. The goal is to create an interactive and engaging web application that serves as an invitation to a Brooklyn stoop sale event.
+
 Live Preview
 
-Check out the live preview of the Brooklyn Stoop Sale Invitation: Brooklyn Stoop Sale Invitation
-Table of Contents
+Check out the live preview of the Brooklyn Stoop Sale Invitation: [Brooklyn Stoop Sale Invitation](https://brooklyn-stoop-sale-khaki.vercel.app/)
+ 
+ 
+## Table of Contents
 
-    Overview
-    Features
-    Technologies Used
-    Installation
-    Usage
-    Project Structure
-    Screenshots
-    Contributing
-    License
-    Contact
+- [Overview](#overview)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Project Structure](#project-structure)
+- [Screenshots](#screenshots)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-Overview
+## Overview
 
 This project is designed to showcase a modern, interactive invitation for a Brooklyn stoop sale event. The application is built using React and incorporates various features such as music playback, animations, real-time date display, an interactive map, and social media sharing options.
-Features
 
-    Interactive Design: Engaging UI with animations and music playback.
-    Event Details: Display of date, time, and location of the stoop sale.
-    Interactive Map: Integration with Google Maps API to show the event location.
-    Social Media Sharing: Easy sharing of the invitation via social media platforms.
-    Responsive Layout: Mobile-friendly design for a seamless experience across devices.
+## Features
 
-Technologies Used
+- **Interactive Design**: Engaging UI with animations and music playback.
+- **Event Details**: Display of date, time, and location of the stoop sale.
+- **Interactive Map**: Integration with Google Maps API to show the event location.
+- **Social Media Sharing**: Easy sharing of the invitation via social media platforms.
+- **Responsive Layout**: Mobile-friendly design for a seamless experience across devices.
 
-    React: JavaScript library for building user interfaces.
-    HTML/CSS: Markup and styling.
-    JavaScript: Logic and interactivity.
-    Google Maps API: For displaying the event location.
-    Vercel: For deployment.
+## Technologies Used
 
-Installation
+- **React**: JavaScript library for building user interfaces.
+- **HTML/CSS**: Markup and styling.
+- **JavaScript**: Logic and interactivity.
+- **Google Maps API**: For displaying the event location.
+- **Vercel**: For deployment.
+
+## Installation
 
 To run this project locally, follow these steps:
 
-    Clone the repository:
+1. **Clone the repository:**
 
+```bash
 git clone https://github.com/sufyanhabib/Brooklyn-Stoop_Sale.git
+```
 
-    Navigate to the project directory:
+2. **Navigate to the project directory:**
 
+```bash
 cd Brooklyn-Stoop_Sale
+```
 
-    Install dependencies:
+3. **Install dependencies:**
 
+```bash
 npm install
+```
 
-    Start the development server:
+4. **Start the development server:**
 
+```bash
 npm start
+```
 
-Usage
+## Usage
 
-Once the development server is running, you can access the application in your browser at http://localhost:3000.
-Project Structure
+Once the development server is running, you can access the application in your browser at `http://localhost:3000`.
 
+## Project Structure
+
+```plaintext
 ├── Data
 │   └── afroStyles.js
 ├── assets
@@ -82,48 +96,56 @@ Project Structure
 ├── App.jsx
 ├── index.css
 └── main.jsx
+```
 
-Components
+### Components
 
-    Card.jsx: Component for displaying individual cards with sale items.
-    Carousel.jsx: Image carousel for showcasing items or event highlights.
-    Footer.jsx: Footer component with additional links and information.
-    Invitation.jsx: Main invitation component with event details.
-    NavBar.jsx: Navigation bar component for easy site navigation.
+- **Card.jsx**: Component for displaying individual cards with sale items.
+- **Carousel.jsx**: Image carousel for showcasing items or event highlights.
+- **Footer.jsx**: Footer component with additional links and information.
+- **Invitation.jsx**: Main invitation component with event details.
+- **NavBar.jsx**: Navigation bar component for easy site navigation.
 
-Pages
+### Pages
 
-    Home.jsx: Home page of the application.
-    Contact.jsx: Contact information page.
-    Sales.jsx: Page showcasing items for sale.
+- **Home.jsx**: Home page of the application.
+- **Contact.jsx**: Contact information page.
+- **Sales.jsx**: Page showcasing items for sale.
 
-Styles
+### Styles
 
-    card.css: Styles for the card component.
-    carousel.css: Styles for the carousel component.
-    invitation.css: Styles for the invitation component.
-    Contact.css: Styles for the contact page.
+- **card.css**: Styles for the card component.
+- **carousel.css**: Styles for the carousel component.
+- **invitation.css**: Styles for the invitation component.
+- **Contact.css**: Styles for the contact page.
 
-Screenshots
-![BROOKLYN-STOOP-SALE-SALE](https://github.com/user-attachments/assets/88f2a7ab-d036-474f-923e-7e94c97abf4b)
-![BROOKLYN-STOOP-SALE-CONTACT](https://github.com/user-attachments/assets/52090857-7119-477a-96cd-bcfbb4227469)
-![BROOKLYN-STOOP-SALE](https://github.com/user-attachments/assets/68d40cf0-a155-4613-b703-8126a55ddf07)
+## Screenshots
+![BROOKLYN-STOOP-SALE](https://github.com/user-attachments/assets/9baa9d80-f1b5-4b44-a572-dc3184bad064)
+![BROOKLYN-STOOP-SALE-SALE](https://github.com/user-attachments/assets/1bca3b7a-2f40-48ac-a1b5-614cff43965f)
+![BROOKLYN-STOOP-SALE-CONTACT](https://github.com/user-attachments/assets/5e57cf0c-083d-40a6-8064-a72fd1d0b76d)
 
-**Contributing**
+
+
+
+## Contributing
+
 Contributions are welcome! If you would like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
 
-    Fork the repository
-    Create your feature branch (git checkout -b feature/AmazingFeature)
-    Commit your changes (git commit -m 'Add some AmazingFeature')
-    Push to the branch (git push origin feature/AmazingFeature)
-    Open a Pull Request
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
-License
+## License
 
-Distributed under the MIT License. See LICENSE for more information.
-Contact
+Distributed under the MIT License. See `LICENSE` for more information.
 
-    Name: Abubakar Habib
-    Email: sufyanhabib80@gmail.com
-    GitHub: sufyanhabib
-    Twitter: @sufyanhabib1
+## Contact
+
+- **Name**: Abubakar Habib
+- **Email**: sufyan@example.com
+- **GitHub**: [sufyanhabib](https://github.com/sufyanhabib)
+- **Twitter**: [@sufyanhabib1](https://twitter.com/sufyanhabib1)
+---
+ 
