@@ -3,6 +3,7 @@ import Invitation from "../components/Invitation";
 import { useState } from 'react';
 import emailjs from '@emailjs/browser';
 import './Contact.css';
+ 
 
 const Contact = () => {
   const [isSubmitting, setIsSubmitting] = useState(false);
@@ -56,8 +57,10 @@ const Contact = () => {
         <textarea name="message"></textarea>
       </p>
       <input type="submit" value="Send" disabled={isSubmitting}/>
+      
     </form>
     {stateMessage && <p className="message">{stateMessage}</p>}
+    
     </div>
     <Invitation />
     <Footer />

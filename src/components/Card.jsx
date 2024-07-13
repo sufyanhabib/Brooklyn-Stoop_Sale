@@ -16,6 +16,7 @@ const Card = () => {
   return (
     <>
       <section className="seccard">
+      <h3 className='titlOfItems'>Discover Our Featured Items</h3>
         <div className="card">
           <div className="first">
             <img
@@ -110,6 +111,7 @@ const Card = () => {
             /> 
           </div>
         </div>
+       
       </section>
     </>
   );

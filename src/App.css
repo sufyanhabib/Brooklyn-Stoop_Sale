@@ -55,7 +55,21 @@
     line-height: 150%;
     /*max-width: 50ch;*/
   }
+
+  .pink{
+    display:  block;
+    -webkit-text-stroke: 1.5px#fcfbfb;
+    -webkit-text-fill-color: #000000;
+  }
   
+.black{
+    display:  block;
+   
+    -webkit-text-stroke: 1.5px #ffffff;
+    -webkit-text-fill-color:#fb5ec2;
+  }
+  
+
   nav {
     z-index: 1;
     top: 0;
@@ -82,6 +96,58 @@
     letter-spacing: 2px;
     text-decoration: none;
   }
+
+  nav li a:hover{
+    color: #0c6438e0;
+
+  }
+
+  .active {
+    color: #0c6438e0 /* Your desired active color */
+    /* Add any additional styles as needed */
+  }
+  
+   
+
+  .nav-link {
+    text-decoration: none; /* Remove default underline */
+    color: #000; /* Default link color */
+    position: relative; /* Required for positioning the underline */
+  }
+  
+  .nav-link:hover {
+    text-decoration: none; /* Remove underline on hover */
+  }
+  
+  .nav-link:hover::after {
+    content: ''; /* Create pseudo-element for underline */
+    position: absolute; /* Position relative to parent */
+    left: 0; /* Start from the left edge */
+    bottom: -2px; /* Adjust based on your design */
+    width: 100%; /* Full width */
+    height: 2px; /* Underline height */
+    background-color: #000; /* Underline color */
+  }
+  
+  .nav-link.active {
+    color: #ffffff; /* Active link color */
+  }
+  
+  .nav-link.active::after {
+    content: ''; /* Create pseudo-element for underline */
+    position: absolute; /* Position relative to parent */
+    left: 0; /* Start from the left edge */
+    bottom: -2px; /* Adjust based on your design */
+    width: 100%; /* Full width */
+    height: 2px; /* Underline height */
+    background-color: #0f0f0f; /* Active underline color */
+  }
+  
+  
+
+
+
+
   
   header h1 {
     font-size: 150px;
