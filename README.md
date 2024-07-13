@@ -136,10 +136,9 @@ Contributions are welcome! If you would like to contribute, please fork the repo
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
-![BROOKLYN-STOOP-SALE](https://github.com/user-attachments/assets/17def38f-da9a-4ceb-aca4-e239b1b9ac17)
-
 - **Name**: Abubakar Habib
 - **Email**: sufyanhabib80@gmail.com
 - **GitHub**: [sufyanhabib](https://github.com/sufyanhabib)
+- **Twitter**:[@sufyanhabib1](https://x.com/sufyanhabib1)
 
 
