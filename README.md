@@ -120,10 +120,9 @@ Once the development server is running, you can access the application in your b
 - **Contact.css**: Styles for the contact page.
 
 ## Screenshots
-![BROOKLYN-STOOP-SALE](https://github.com/user-attachments/assets/9baa9d80-f1b5-4b44-a572-dc3184bad064)
-![BROOKLYN-STOOP-SALE-SALE](https://github.com/user-attachments/assets/1bca3b7a-2f40-48ac-a1b5-614cff43965f)
-![BROOKLYN-STOOP-SALE-CONTACT](https://github.com/user-attachments/assets/5e57cf0c-083d-40a6-8064-a72fd1d0b76d)
-
+ ![BROOKLYN-STOOP-SALE -Home](https://github.com/user-attachments/assets/1de2b6b2-e0ea-4cb7-96bb-a83987ae0a88)
+ ![BROOKLYN-STOOP-SALE-sales](https://github.com/user-attachments/assets/f724dcd0-9057-4daa-ab52-a1efd355e595)
+ ![BROOKLYN-STOOP-SALE-CONTACT](https://github.com/user-attachments/assets/10ec57d9-5105-419a-bfd9-acb1e0bd504f)
 
 
 
