@@ -139,6 +139,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 - **Name**: Abubakar Habib
 - **Email**: sufyanhabib80@gmail.com
 - **GitHub**: [sufyanhabib](https://github.com/sufyanhabib)
-- **Twitter**:[@sufyanhabib1](https://x.com/sufyanhabib1)
+- **Twitter**: [@sufyanhabib1](https://x.com/sufyanhabib1)
 
 
